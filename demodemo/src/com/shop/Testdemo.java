@@ -5,4 +5,12 @@ public class Testdemo {
         System.out.println("abafdddddddddddddddddddddddddddd");
         System.out.println("cccccccccccccccccccccccccc");
     }
+
+
+    /**
+     * testtwo
+     */
+    public void testtwo(){
+        System.out.println("twewtesfddddddddddddddddddddddddddd");
+    }
 }
