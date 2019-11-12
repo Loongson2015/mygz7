@@ -10,16 +10,30 @@ public class Testdemo {
     /**
      * testtwo
      */
-    public void testtwo(){
+    public void testtwo() {
         System.out.println("twewtesfddddddddddddddddddddddddddd");
     }
 
     /**
+     * <<<<<<< HEAD
      * testfive
      */
-    public void testfive(){
+    public void testfive() {
         System.out.println("testfive");
     }
 
 
+    /*
+     * sayhi
+     */
+    public void sayhi() {
+        System.out.println("sayhi");
+    }
+
+    /**
+     * test3
+     */
+    public void test3() {
+        System.out.println("test3");
+    }
 }
