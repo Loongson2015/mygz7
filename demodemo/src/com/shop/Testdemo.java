@@ -36,4 +36,13 @@ public class Testdemo {
     public void test3() {
         System.out.println("test3");
     }
+
+
+
+    /**
+     * test4
+     */
+    public void test4() {
+        System.out.println("master-branch的test4");
+    }
 }
