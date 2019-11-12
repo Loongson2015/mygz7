@@ -13,4 +13,18 @@ public class Testdemo {
     public void testtwo(){
         System.out.println("twewtesfddddddddddddddddddddddddddd");
     }
+
+    /**
+     * sayhi
+     */
+    public void sayhi(){
+        System.out.println("sayhi");
+    }
+
+    /**
+     * test3
+     */
+    public  void test3(){
+        System.out.println("test3");
+    }
 }
