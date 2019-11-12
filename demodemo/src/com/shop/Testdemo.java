@@ -36,4 +36,11 @@ public class Testdemo {
     public void test3() {
         System.out.println("test3");
     }
+
+    /**
+     * test5
+     */
+    public void test5() {
+        System.out.println("来自Test-brach里的test5");
+    }
 }
