@@ -11,7 +11,7 @@ public class Testdemo {
      * testtwo
      */
     public void testtwo() {
-        System.out.println("twewtesfddddddddddddddddddddddddddd");
+        System.out.println("twewtesfddddddddddddddd666dddddddddddd");
     }
 
     /**
@@ -37,10 +37,19 @@ public class Testdemo {
         System.out.println("test3");
     }
 
+
     /**
      * test5
      */
     public void test5() {
         System.out.println("来自Test-brach里的test5");
+    }
+
+
+    /**
+     * test4
+     */
+    public void test4() {
+        System.out.println("master-branch的test4");
     }
 }
