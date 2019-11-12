@@ -5,4 +5,11 @@ public class Testdemo {
         System.out.println("abafdddddddddddddddddddddddddddd");
         System.out.println("cccccccccccccccccccccccccc");
     }
+
+    /**
+     * showInfo
+     */
+    public void showInfo(){
+        System.out.println("qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq");
+    }
 }
